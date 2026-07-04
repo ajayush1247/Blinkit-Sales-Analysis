@@ -130,33 +130,7 @@ The dashboard was developed using Power BI with:
 
 ---
 
-# 📂 Project Structure
 
-```text
-Blinkit-Sales-Analysis/
-│
-├── Dashboard/
-│   └── Blinkit_Dashboard.png
-│
-├── SQL/
-│   └── Blinkit_SQL_Analysis.sql
-│
-├── Excel/
-│   └── Blinkit_Pivot_Analysis.xlsx
-│
-├── Dataset/
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   └── products.csv
-│
-├── Blinkit_Sales_Dashboard.pbix
-├── Blinkit_Business_Performance_Report.docx
-├── Blinkit_Sales_Dashboard_Portfolio_Report.pdf
-└── README.md
-```
-
----
 
 # 🚀 Skills Demonstrated
 
